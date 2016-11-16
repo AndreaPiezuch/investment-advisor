@@ -1,5 +1,8 @@
 ---
 declared-services:
+  investment-advisor-MongoDB:
+    name: investment-advisor-MongoDB
+    label: user-provided
   personality-insights-service:
     label: personality_insights
     plan: tiered
